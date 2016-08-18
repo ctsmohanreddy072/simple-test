@@ -1,0 +1,2 @@
+From hello-world
+CMD echo "hello"
